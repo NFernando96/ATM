@@ -33,6 +33,4 @@ The **SimpleATM** program simulates a basic ATM (Automated Teller Machine) inter
 - Enhanced input validation and error handling could be implemented.
 - The program could be extended to support multiple accounts, storing data in a more persistent manner (e.g., a database).
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
